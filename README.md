@@ -17,9 +17,5 @@ Jose Manuel Gómez
 
 El dataset original se encuentra en la siguiente dirección:
 
-[https://github.com/Bengis/nba-gap-cleaning/blob/master/data/nba_out.csv](https://github.com/Bengis/nba-gap-cleaning/blob/master/data/nba_out.csv)
+https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/data/Bank_Personal_Loan_Modelling.csv
 
-## Licencia
-
-El contenido de este proyecto esta licencia bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), 
-y el código fuente usadao para mostrar este contenido esta licenciado bajo la  [MIT license](http://opensource.org/licenses/mit-license.php).
