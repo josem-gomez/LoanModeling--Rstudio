@@ -1,6 +1,6 @@
 # Bank Loan Modelling
 
-## Estadisticas de clientes de entidad bancaria
+## Análisis estadístico de clientes de una entidad bancaria
 
 ## Autor
 
