@@ -19,3 +19,9 @@ El dataset original se encuentra en la siguiente dirección:
 
 https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/data/Bank_Personal_Loan_Modelling.csv
 
+El dataset transformado tras la realiazación del estudio se encuetra en el siguiente enlace:
+
+https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/data/Bank_Personal_Loan_Modelling_modelling_output.csv
+
+## 
+
