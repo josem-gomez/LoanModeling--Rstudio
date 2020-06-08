@@ -13,6 +13,17 @@ Jose Manuel Gómez
 * Master de Data Science.
 * [Universitat Oberta of Catalunya.](http://www.uoc.edu/portal/ca/index.html)
 
+## Código
+
+Código R con el estudio 
+
+https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/code/jmgl-TCVD-PRA-2.Rmd
+
+Output HTML con el estudio
+
+
+
+
 ## Dataset
 
 El dataset original se encuentra en la siguiente dirección:
@@ -23,5 +34,5 @@ El dataset transformado tras la realiazación del estudio se encuetra en el sigu
 
 https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/data/Bank_Personal_Loan_Modelling_modelling_output.csv
 
-## 
+
 
