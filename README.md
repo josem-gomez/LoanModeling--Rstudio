@@ -19,6 +19,10 @@ Código R con el estudio
 
 https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/code/jmgl-TCVD-PRA-2.Rmd
 
+Output PDF con el estudio
+
+https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/code/jmgl-TCVD-PRA-2.pdf
+
 Output HTML con el estudio
 
 https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/code/jmgl-TCVD-PRA-2.html
