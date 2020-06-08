@@ -21,8 +21,7 @@ https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/code/jmgl-TCVD-
 
 Output HTML con el estudio
 
-
-
+https://github.com/josem-gomez/LoanModeling--Rstudio/blob/master/code/jmgl-TCVD-PRA-2.html
 
 ## Dataset
 
